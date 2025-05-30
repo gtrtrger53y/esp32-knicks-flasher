@@ -1,1 +1,0 @@
-// Placeholder Arduino code - connect to Wi-Fi and fetch Knicks scores
